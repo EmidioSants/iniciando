@@ -1,0 +1,2 @@
+A ideia por trás dessa ideia é começar na programação como um iniciante, por tanto haverá arquivos bem simples como variáveis, laços simples, testes bem básicos.
+Optei por inicar com Python por ser uma linguagem de fácil entendiment0, uma curva de aprendizado bem curta.
